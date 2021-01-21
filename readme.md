@@ -116,7 +116,7 @@ button.setProperty("background-color", "red")
 button.removeProperty("background-color")
 ```
 
-A more complex and systematic way of altering CSS stylesheets and style elements is through adding and removing CSS rules. To see a live example of this, navigate to the [demo folder](https://github.com/jaqarrick/cssdom-info/demo/tree/main/demo).
+A more complex and systematic way of altering CSS stylesheets and style elements is through adding and removing CSS rules. To see a live example of this, navigate to the [demo folder](https://github.com/jaqarrick/cssdom-info/tree/main/demo).
 
 # Attributions
 
