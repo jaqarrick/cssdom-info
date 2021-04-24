@@ -94,7 +94,7 @@ CSSOM/DOM moves into the render/frame tree combined. This tree is the actual rep
 
 ### CSSOM API
 
-One of the most common way of manipulating CSS properties and values using JS is using the `style` object.
+A simple way to manipulate CSS properties and values using JS is by using the `style` object.
 
 ```
 document.querySelector("p").style.marginLeft = "1px"
